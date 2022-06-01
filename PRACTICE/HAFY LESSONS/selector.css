@@ -1,0 +1,32 @@
+.paragragh{
+color:yellow;
+font-size:x-large;
+}
+body{
+    background:#B7918C,yellow,green;
+  
+}
+a{
+    color:yellow;
+}
+a:visited{
+    color:purple;
+}
+p {
+    text-align: left;
+    width: 20%;
+}
+div{
+    text-align:right;
+    width: 50%;
+    font-weight: bolder;
+    font-size:x-large;
+}
+/* img{
+    height:50%;
+    width:50%;
+    float:right;
+} */
+*{
+    background-image: url("./mountain-landscape-2031539_1280.jpg");
+}

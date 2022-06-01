@@ -1,0 +1,31 @@
+.grid-container{
+    height:50%;
+    display:grid;
+    align-content: space-evenly;
+    grid-template-columns: auto auto auto;
+    column-gap:10px;
+    row-gap:10px;
+    background-color:violet;
+    padding:20px;
+}
+.grid-container> div{
+    height:100px;
+    background-color:blue;
+    text-align: center;
+    padding:20px;
+    font-size:30px;
+}
+/* .item1{
+    grid-row-start: 1;
+    grid-row-end:4;
+} */
+/* 
+justify-content:
+center;
+space-evenly;
+start;
+end;
+space-around;
+space-between;
+
+*/

@@ -1,0 +1,39 @@
+li{
+    display:inline;
+    margin-right:30px;
+    margin-top:0px;
+    color:white;
+    cursor:pointer;
+    font-size:larger;
+}
+p{
+font-family:
+}
+*{
+    background-color: #C4FCEF;
+}
+ul{
+    width:100%;
+    background:wheat;
+    height:60px;
+}
+i{
+    display:inline;
+    margin-right:50px;
+}
+a:link{
+color:red;
+text-decoration:none;
+}
+a:visited{
+color:green;
+text-decoration:underline;
+}
+a:hover{
+color:hotpink;
+text-decoration:underline;
+}
+a:active{
+color:purple;
+text-decoration:underline;
+}

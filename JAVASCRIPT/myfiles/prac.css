@@ -1,0 +1,19 @@
+/* .first{
+    position:absolute;
+    border-style:solid;
+    height:100px;
+    width:200px;
+    background-color:red;
+  
+
+} */
+.second{
+    position:absolute;
+    border-style:solid;
+    border-radius:50%;
+    height: 100px;
+    width: 200px;
+    background-color: rgb(206, 219, 16);
+  
+
+}

@@ -1,0 +1,23 @@
+#a{
+    background: wheat;
+    padding: 1px;
+    margin:1rem;
+}
+#b{
+    background:rgb(223, 223, 238);
+    padding: 1px;
+    margin:1rem;
+}
+#c{
+    background: rgb(221, 146, 7);
+    padding: 1px;
+    font-weight: 100px;
+    margin:1rem;
+
+}
+
+#d{
+    background-color: rgb(23,34,56);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}

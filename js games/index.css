@@ -1,0 +1,47 @@
+body{
+    background-image:url(https://cdn.pixabay.com/photo/2015/04/25/23/32/wormhole-739872_960_720.png);
+    background-size:100%;
+    background-repeat:no-repeat;
+}
+h1 {
+    color:rgb(247, 104, 9);
+    text-align:center;
+
+}
+p{
+    color:rgb(247, 211, 11);
+    text-align:center;
+    font-size:x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#count-el{
+    color:rgb(235, 16, 169);
+    font-size:60px;
+    text-align:center;
+}
+.btn-container{
+    display:flex;
+    justify-content:space-around;
+   
+}
+button{
+    border:none;
+    color:white;
+    background-color:rgba(65, 5, 5, 0.87);
+    width:100px;
+    height:50px;
+    border-radius:5px;
+    cursor:pointer;   
+    
+}
+.second{
+    border: none;
+        color: white;
+        background-color: rgba(8, 43, 160, 0.87);
+        width: 200px;
+        height: 50px;
+        border-radius: 5px;
+        cursor:pointer;
+
+}

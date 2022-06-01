@@ -1,0 +1,18 @@
+div{
+    float:left;
+    margin-left:500px;
+    margin-right:10px;
+}
+li{
+    display:inline;
+}
+button{
+    height:40px;
+    width:100px;
+    background-color:rgb(90, 63, 189);
+    border:none;
+    font-size:2.5vw;
+    font-family:'Times New Roman', Times, serif;
+    cursor:pointer;
+    border-radius: 10px;;
+}

@@ -1,0 +1,73 @@
+
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2016/11/22/23/44/porsche-1851246_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.container{
+    display:flex;
+    justify-content: flex-end;
+    align-content:center;
+}
+.items{
+    
+   
+   background-image: none;
+   background-color:wheat;
+    height:300px;
+    width:700px;
+    text-align:center;
+    vertical-align: middle;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 250px;
+    font-family:'Times New Roman', Times, serif;
+    font-size:18px;
+    
+   
+}
+.left{
+    display:flex;
+    justify-content: flex-end;
+}
+
+li{
+    list-style-type:none ;
+}
+img{
+    height:90px;
+    width:100px;
+}
+header{
+    display:flex;
+    justify-content: center;
+    height:100px;
+    width:100vw;;
+    background-color:black;
+   margin-left:150px;
+}
+button{
+    border:solid 2px rgba(245, 122, 7, 0.904);
+    height:50px;
+    width:90px;
+    color:white;
+    background-color:black;
+    margin-right:30px;
+}
+button:hover{
+    background-color:orangered;
+    cursor:pointer;
+}
+.text{
+  
+ 
+    margin-left:0px;
+  
+}
+h1{
+    color:blueviolet;
+    font-size:50px;
+  
+
+
+}

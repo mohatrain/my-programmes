@@ -1,0 +1,26 @@
+div{
+    
+    margin:auto;
+    height:50px;
+    width:50px;
+    background:linear-gradient(blue,cyan,wheat);
+    border-radius: 50%;
+    animation-name:bounce;
+    animation-duration:5s;
+    animation-iteration-count: infinite;
+    /* animation-timing-function: steps(5,end); */
+    
+}
+@keyframes bounce{
+    0%{
+        top:0px;
+    }
+    100% {
+        position: relative;
+        top: 500px;
+        animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1);
+    }
+
+
+
+}

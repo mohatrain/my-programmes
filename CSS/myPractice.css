@@ -1,0 +1,25 @@
+.green{
+    color:green;
+    background:grey;
+}
+.purple{
+    color:purple;
+    background:yellow
+}
+.red{
+    color:red;
+    background:wheat
+}
+div{
+    color:blue
+}
+span{
+    color:chartreuse;
+    text-transform: uppercase;
+}
+body{
+    color:crimson;
+    font-family:'Times New Roman', Times, serif;
+    line-height: 1.5em;
+}
+/* there is the  last rule that states that all the syntax that come after a given syntax on the command the last one overides the first on so this becomes the last rule */

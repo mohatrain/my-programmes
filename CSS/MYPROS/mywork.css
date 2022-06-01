@@ -1,0 +1,48 @@
+p.myelements{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:larger;
+    text-align: center;
+    text-decoration: dotted;
+    background-color:hsl(0, 44%, 31%);
+    border:2px solid black;
+}
+h1.myelements{
+    background-color:rgb(228, 199, 34);
+    color:rgb(224, 18, 163);
+    text-align:center;
+    font-weight:bold;
+     border:2px solid black;
+}
+div{
+    display:flex;
+    gap:10px 10px;
+}
+.one{
+    width:50%;
+    height:30vh;
+    border:10px;
+    background:yellow;
+}
+.two{
+    width:50%;
+    height:30vh;
+    background:rgb(16, 206, 80);
+}
+.three{
+     width:50%;
+    height:30vh;
+    background:rgb(236, 98, 17);
+}
+.four{
+    width:50%;
+    height:30vh;
+    background:rgb(231, 13, 49);
+}
+.five{
+     width:50%;
+    height:30vh;
+    background:rgb(7, 22, 236);
+}
+*{
+    background-image:"paper.gif"
+}

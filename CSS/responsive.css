@@ -1,0 +1,23 @@
+p::before{
+    content:"hello";
+    display:block;
+    background:yellow;
+}
+p::after{
+    background-color: red;
+    display:block;
+    height:20px;
+    width:20px;
+}
+img{
+    width: 500px;
+   
+}
+div::before{
+content:"";
+border:2px solid grey;
+width:100%;
+height:100%;
+position:absolute;
+box-sizing: border-box;
+}

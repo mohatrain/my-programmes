@@ -1,0 +1,26 @@
+h1{
+    background-color: red;
+    padding:50px
+
+}
+#first{
+    background: blue;
+    padding: 10px 100px 100px
+}
+#second{
+    background-color: wheat;
+    padding: 100px;
+}
+*{
+    margin-top: 0;
+    margin-bottom: 0rem;
+    margin-left: 0rem;
+    margin-right: 0px;
+    /* well i have learnt aboot the CSS box model */
+    border-left:solid;
+    border-right:solid;
+    border-width: 5.5px;
+    border-top: steelblue;
+    /* boarder radius just converts the elements or the orders into arcs and i think this is a beautiful tool for design */
+    border-radius: 900000000000000000000000000000px;
+}

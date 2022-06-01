@@ -1,0 +1,11 @@
+table ,td ,tr{
+    border:1px solid black;
+}
+table{
+    width:100%;
+}
+td{
+    font-weight:bolder;
+    background-color: aquamarine;
+    text-align:le;
+}

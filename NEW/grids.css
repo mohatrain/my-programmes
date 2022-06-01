@@ -1,0 +1,12 @@
+.grid-container{
+    display:grid;
+    grid-template-rows:auto auto auto;
+    height:100vh;
+    width:100vw;
+    background-color: wheat;
+}
+section{
+    display:grid;
+    grid-template
+    color:yellow;
+}

@@ -1,0 +1,15 @@
+#boxcontainer{
+    height:100%;
+    display:flex;
+    
+}
+#box1{
+    background-color:rgb(100, 235, 10);
+    height:50%;
+    width:50%;
+}
+#box2{
+    background-color:rgb(116, 247, 28);
+    height:50%;
+    width:50%;
+}

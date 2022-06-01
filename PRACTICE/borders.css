@@ -1,0 +1,30 @@
+button{
+    height:40px;
+    width:200px;
+    border-radius:100px;
+    background:#d1df14;
+    border-style:solid;
+    border-color:#E1D818;
+}
+button:hover{
+    background-color:wheat;
+}
+p{
+    font-family: 'Send Flowers',
+    cursive;
+    font-weight: bolder;
+    color:wheat;
+}
+#myparagraph{
+    color:#d1df14;
+}
+img{
+    width:70%;
+    border-radius: 20px;
+}
+img:hover{
+    color:blue;
+}
+div{
+    background-color:wheat;
+}

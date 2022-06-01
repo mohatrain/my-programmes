@@ -1,0 +1,33 @@
+p{
+    border-style:solid;
+    height:100px;
+    width:100px;
+    background-color:wheat;
+    border-width:10px;
+    border-color:red;
+    margin-top:100px;
+    margin-left:+100px;
+    padding-left: 100px;
+    padding-top:100px;
+    font-weight:bolder;
+    font-size:x-large;
+    font-style:italic;
+    text-align:center;
+    z-index: -1
+}
+[type = "checkbox"]{
+    margin: 10px 10px 10px 10px;
+}
+[type ="datetime" ]{
+    margin-left:200px;
+}
+p{
+    margin:10px 20px 20px 40px;
+}
+p{
+    margin-top:10px;
+    margin-right:20px;
+    margin-bottom:20px;
+   
+}
+

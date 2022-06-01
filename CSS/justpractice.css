@@ -1,0 +1,22 @@
+div{
+    width:15opx;
+    height:150vh;
+   display:flex;
+   align-items: center;
+   text-align:center;
+}
+.one{
+    background:linear-gradient(red,green);
+    
+}
+.two{
+    background:linear-gradient(wheat,yellow)
+}
+.three{
+    background:linear-gradient(white,purple)
+}
+.four{
+    background:linear-gradient(pink,red);
+    position: relative;
+    float:left;
+}

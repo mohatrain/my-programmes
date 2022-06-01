@@ -1,0 +1,18 @@
+body{
+    background:linear-gradient(rgb(57, 99, 10),wheat)
+
+}
+h1{
+    background:yellow;
+
+}
+/* well this is basically about the fact that  */
+@media screen and (min-width:300px){
+    body{
+         background:pink;
+         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+         text-decoration: wavy;
+    }
+    
+   
+}

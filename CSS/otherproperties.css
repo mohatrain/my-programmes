@@ -1,0 +1,9 @@
+h1{
+    color:red;
+    height: 100px;
+    background-color: wheat;
+}
+.text{
+    background-color:blue;
+    height: calc(100vh - 100px);
+}

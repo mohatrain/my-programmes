@@ -1,0 +1,40 @@
+.block{
+    background:rgb(255, 169, 41);
+    color:white;
+   text-align: center;
+}
+.inline{
+    text-shadow: rgb(34, 146, 135);
+    text-transform: uppercase;
+    background:violet;
+    padding: 0.536rem;
+    margin-top: 2rem;
+}
+#mylist{
+    text-decoration-style: solid;
+    color:rgb(14, 14, 11)
+}
+ul li a{
+    text-decoration-style: solid;
+    text-transform: capitalize;
+    letter-spacing: 0px;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display:inline;
+    background:grey
+}
+#myparagraph{
+    background: wheat;
+    display:inline-block;
+    padding:3px;
+    margin:10px;
+}
+.opacitycheck{
+    background:yellow;
+    padding: 10px; 
+}
+.opacity-1{
+    margin:2px;
+    opacity: 0.9;
+}

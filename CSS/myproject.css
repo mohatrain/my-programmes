@@ -1,0 +1,15 @@
+#heading1{
+    color:red;
+}
+/* Well this tell us alot about the color options in css and beautifully this makes alot of sense to me  */
+#heading2{
+    color:rgb(22, 52, 221);
+}
+span{
+    text-transform:uppercase;
+    color: rgb(0,123,250);
+    background:rgba(0,250,4,)
+}
+*{
+    background:rgb(211, 197, 172)
+}

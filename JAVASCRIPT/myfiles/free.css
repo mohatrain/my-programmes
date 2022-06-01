@@ -1,0 +1,36 @@
+div{
+    visibility:hidden;
+    font-family:'Times New Roman', Times, serif;
+    font-size:larger;
+    height:300px;
+    width:80%;
+    margin:auto;
+    margin-top:100px;
+    background-color: white;
+
+    border:2px;
+    border-radius:5px;;
+    padding:5px 5px 5px 5px;
+}
+.reader{
+    display:none;
+    visibility:hidden;
+}
+
+body{
+    background-color:rgba(237, 243, 243, 0.993);
+}
+input[type= button]{
+    width:100%;
+    height:50px;
+    font-size:20px;
+    font-weight:bolder;
+    text-align:left;
+    cursor:pointer;
+}
+input[type=button]:hover{
+    background-color:rgba(128, 128, 128, 0.89)
+}
+input[type=date]{
+    background-size:8%;
+}

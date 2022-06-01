@@ -1,0 +1,109 @@
+/* div{
+    margin:auto;
+    height:200px;
+    width:200px;
+    border-style:solid;
+    border-width:5px;
+    background-color:yellow;
+    border-color:green;
+    margin-top:100px;
+    border-radius:50%;
+    animation-name:hafy;
+    animation-duration:60s;
+    animation-direction:normal;
+    animation-play-state: running;
+    animation-delay:3s;
+}
+@keyframes hafy{
+    0%{
+        border-style:solid;
+        border-width:5px;
+        background-color:yellow;
+        border-color:green;
+    }
+    10%{
+        border-style:solid;
+        border-width:5px;
+        background:linear-gradient(90deg,blue,wheat);
+        border-color:rgb(224, 84, 41);
+    }
+    30% {
+        border-style: solid;
+        border-width: 5px;
+        background: linear-gradient(90deg, rgb(235, 11, 216), rgb(56, 223, 22));
+        border-color: rgb(243, 17, 17);
+    }
+    50% {
+        border-style: solid;
+        border-width: 5px;
+        background: linear-gradient(180deg, rgb(248, 61, 14), rgb(236, 10, 236));
+        border-color: rgb(207, 11, 44);
+    }
+    60% {
+        border-style: solid;
+        border-width: 5px;
+        background: linear-gradient(90deg, rgb(32, 248, 12), rgb(9, 202, 202));
+        border-color: rgb(250, 20, 20);
+    }
+    80% {
+        border-style: solid;
+        border-width: 5px;
+        background: linear-gradient(90deg, blue, wheat);
+        border-color: rgb(27, 4, 236);
+    }
+    100% {
+        border-style: solid;
+        border-width: 5px;
+        background: linear-gradient(90deg, rgb(58, 201, 14), rgb(179, 197, 245));
+        border-color: rgb(207, 18, 122);
+    }
+} */
+button{
+    
+    border-radius:10px;
+    height:30px;
+    width:150px;
+  
+ 
+}
+button:hover{
+animation-name:anime;
+animation-duration:500ms;
+animation-fill-mode:forwards ;
+}
+@keyframes anime{
+    100%{
+        background:#4791d0;
+        border-color:purple;
+    }
+}
+div{
+    height:50px;
+    width:300px;
+    background:black;
+    border-radius:5px;
+    position:relative;
+    animation-name:anima;
+    animation-duration:10s;
+}
+@keyframes anima{
+    0%{
+        background:yellow;
+        left:40px;
+        top:40px;
+
+
+    }
+    50%{
+        background:rgb(39, 8, 214);
+        left:100px;
+        top:100px;
+    }
+    100%{
+        background:rgb(223, 108, 13);
+        left:100px;
+        top:200px;
+        right:100px;
+    }
+}
+

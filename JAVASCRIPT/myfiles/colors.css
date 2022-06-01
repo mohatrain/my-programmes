@@ -1,0 +1,53 @@
+body{
+/* background:linear-gradient(90deg,blue,violet);
+background:linear-gradient(90deg,#CCFFFF,#FFCCCC,yellow,blue);
+font-size: x-large;
+} */
+/* background:url(https://cdn.pixabay.com/photo/2016/09/08/04/12/programmer-1653351_960_720.png); */
+transform:scale(1);
+text-transform:uppercase;
+}
+a:hover{
+    color:brown;
+  
+}
+hover:hover{
+    transform:scale(2)
+}
+div{
+    height:200px;
+    width:200px;
+    margin:auto;
+    background:linear-gradient(90deg, #09e7e7, #FFCCCC,rgb(17, 217, 243));
+
+
+}
+div:hover{
+    background:linear-gradient(90deg, #CCFFFF, #FFCCCC);
+    transform:scale(1.5)
+}
+
+
+
+
+
+
+
+@keyframes hafy{
+    0%{
+        color:yellow;
+    }
+    10%{
+        background:linear-gradient(90deg,red,blue);
+
+    }
+    50%{
+        color:pink;
+    }
+    60%{
+        color:wheat;
+    }
+    100%{
+        color:aqua;
+    }
+}

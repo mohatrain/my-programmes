@@ -1,0 +1,31 @@
+.absa{
+    position:absolute;
+    height:50px;
+    width:50px;
+    margin-top:20px;
+      
+
+
+}
+
+.mtn{
+
+    position:absolute;
+    height:50px;
+    width:50px;
+    margin-top:20px;
+    left:100px;
+    float:right;
+    
+}
+.image:hover{
+    background-color:blue;
+    transform:scale(1.5);
+    height:70px;
+    width:70px;
+
+
+}
+article{
+    color:yellow;
+}

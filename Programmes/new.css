@@ -1,0 +1,22 @@
+.container{
+    display:grid;
+    height:100%;
+    width:70%;
+    grid-template-columns: auto auto auto ;
+    column-gap: 0px;
+    row-gap:1px;
+    background-color:white;
+  
+}
+.item{
+   
+    border:solid 2px black;
+  
+
+    text-align:center;
+}
+/* column-gap */
+/*  */
+.special{
+    height:200px;
+}
